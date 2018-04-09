@@ -14,4 +14,6 @@
 ![alt-текст](https://github.com/AlimbekovaElina/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%2019.33.36.png)
 * Глагол scream может употреблятся с дополнением headline, глагол shout может употребляться с дополнением nisodemus. Оба глагола могут употребляться с дополнением obscenity.
 ### 3.
+Было выбрано слово inventive
+![alt-текст](https://github.com/AlimbekovaElina/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%2019.36.34.png)
 ![alt-текст]()
